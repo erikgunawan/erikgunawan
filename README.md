@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 Erik Gunawan's here!!
+Welcome to my GitHub profile! I am a seasoned Android Developer with over 10 years of experience.
 
-<!--
-**erikgunawan/erikgunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💼 Android development | Java, Kotlin
+- 🔭 Currently exploring advanced AI integrations with Android
+- 🌱 Learning: Jetpack Compose, Kotlin Multiplatform, Compose Multiplatform, and AI tools
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![Android](https://img.shields.io/badge/Android-Development-green)
+![Kotlin](https://img.shields.io/badge/Kotlin-Technology-orange?logo=kotlin&logoColor=orange&style=flat)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- 💌 Email: [erik.gunawan44@gmail.com](mailto:erik.gunawan44@gmail.com)
+- 💼 LinkedIn: [Erik Gunawan](https://www.linkedin.com/in/ergun4/)
