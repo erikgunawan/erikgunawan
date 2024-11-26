@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a seasoned Android Developer with over 10 yea
 
 ## 🔧 Technologies & Tools
 ![Android](https://img.shields.io/badge/Android-Development-green)
-![Kotlin](https://img.shields.io/badge/Kotlin-Technology-orange?logo=kotlin&logoColor=orange&style=flat)
+![Kotlin](https://img.shields.io/badge/Kotlin-Technology-orange?logo=kotlin&logoColor=white&style=flat)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-blue)
 
 ## 📫 How to Reach Me
